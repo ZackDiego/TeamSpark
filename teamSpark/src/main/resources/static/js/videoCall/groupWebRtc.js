@@ -84,11 +84,11 @@ function connectToSocketServer(roomName) {
             // {urls: 'stun:stun2.l.google.com:19302'},
             // {urls: 'stun:stun3.l.google.com:19302'},
             // {urls: 'stun:stun4.l.google.com:19302'},
-            {
-                urls: `turn:13.230.221.152:3478`,
-                username: turnUserName,
-                credential: turnPassword
-            }
+            // {
+            //     urls: `turn:13.230.221.152:3478`,
+            //     username: turnUserName,
+            //     credential: turnPassword
+            // }
         ]
     };
 
